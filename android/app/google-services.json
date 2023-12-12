@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935880142438",
+    "project_id": "x-learning-376d2",
+    "storage_bucket": "x-learning-376d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935880142438:android:923194e1c159d0794147a7",
+        "android_client_info": {
+          "package_name": "com.example.xlearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCbPZi-CkXJMndQ9zX2R73oF1l0F5mZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
